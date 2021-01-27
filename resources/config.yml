@@ -1,0 +1,30 @@
+---
+# Bienvenue sur le plugin AntiCraft 1.0 !
+# Avec ce plugin vous pouvez stopper 6 craft d'item uniquement.
+# Futur mise a jour : AntiCraft illimiter !
+
+#Exemple :
+1-ID: 388 # ID de l'item pour stopper le craft la ces l'emeraude (l'emeraud n'a pas de craft lol mais ces pour l'exemple)
+1-META: 0 # META de l'item a stopper le craft
+1-message: "Craft interdit !"   #le message lorsque le joueur essaie de craft l'item ! si vous avez besoin de aucun message laissez un " "
+
+2-ID: 0
+2-META: 0
+2-message: " "
+
+3-ID: 0
+3-META: 0
+3-message: " "
+
+4-ID: 0
+4-META: 0
+4-message: " "
+
+5-ID: 0
+5-META: 0
+5-message: " "
+
+6-ID: 0
+6-META: 0
+6-message: " "
+...
